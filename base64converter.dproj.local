@@ -2,9 +2,11 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2020/09/30 14:00:43.000.567,=C:\Users\SDZANELLA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2020/11/13 11:16:39.219,=C:\Users\SDZANELLA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2020/11/13 11:20:57.252,C:\Users\SDZANELLA\Documents\Projetos\Base64-Converter\Unit1.pas=C:\Users\SDZANELLA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2020/11/13 11:20:57.252,C:\Users\SDZANELLA\Documents\Projetos\Base64-Converter\Unit1.dfm=C:\Users\SDZANELLA\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2020/11/13 11:57:07.048,C:\Users\SDZANELLA\Documents\Projetos\Base64-Converter\base64converter.dproj=C:\Users\SDZANELLA\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/11/13 11:16:39.000.219,=C:\Users\SDZANELLA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/13 11:20:57.000.252,C:\Users\SDZANELLA\Documents\Projetos\Base64-Converter\Unit1.pas=C:\Users\SDZANELLA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/13 11:20:57.000.252,C:\Users\SDZANELLA\Documents\Projetos\Base64-Converter\Unit1.dfm=C:\Users\SDZANELLA\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/11/13 11:57:07.000.048,C:\Users\SDZANELLA\Documents\Projetos\Base64-Converter\base64converter.dproj=C:\Users\SDZANELLA\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/01/03 00:28:00.772,=C:\Users\SDZANELLA\Documents\Embarcadero\Studio\20.0\Imports\ShockwaveFlashObjects_TLB.pas</Transaction>
+    <Transaction>2021/01/03 00:29:11.744,C:\Users\SDZANELLA\Documents\Embarcadero\Studio\20.0\Imports\ShockwaveFlashObjects_TLB.pas=</Transaction>
   </Transactions>
 </BorlandProject>
